@@ -35,13 +35,13 @@ export default function Body() {
                 loop
                 playsInline
               >
-                <source src="/videos/hero-video.mp4" type="video/mp4" />
+                <source src="/videos/video.mp4" type="video/mp4" />
               </video>
             </div>
 
             <div className="overflow-hidden rounded-[12px] bg-[#111111]">
               <Image
-                src="/images/hero-image.jpg"
+                src="/images/hero-image.webp"
                 alt="Interior design material inspiration"
                 width={1200}
                 height={1200}

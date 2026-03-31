@@ -11,43 +11,43 @@ const services = [
     title: "1. Preliminary Project analysis",
     description:
       "In the preliminary phase, Calibro engages in close collaboration with architects, designers, and clients, meticulously aligning every aspect of the project to ensure objectives and expectations are fully realized.",
-    image: "/images/service-1.jpg",
+    image: "/images/service-1.webp",
   },
   {
     title: "2. Cost Engineering",
     description:
       "Thorough project planning, preparation of preliminary drawings, and accurate cost estimation are just a few examples of how Calibro supports clients in adhering to both timelines and budgets.",
-    image: "/images/service-2.jpg",
+    image: "/images/service-2.webp",
   },
   {
     title: "3. Shop-drawings and prototypes",
     description:
       "Every element, detail, and space is carefully reviewed and approved before execution and installation.",
-    image: "/images/service-3.PNG",
+    image: "/images/service-3.webp",
   },
   {
     title: "4. Production and quality control",
     description:
       "Calibro provides exclusive solutions crafted by skilled artisans combining advanced technologies with expertise.",
-    image: "/images/service-4.jpg",
+    image: "/images/service-4.webp",
   },
   {
     title: "5. FF&E Supply",
     description:
       "We source premium products and furnishings tailored to complement any design style.",
-    image: "/images/service-5.PNG",
+    image: "/images/service-5.webp",
   },
   {
     title: "6. Logistics",
     description:
       "Carefully managed logistics ensuring timely delivery and perfect condition worldwide.",
-    image: "/images/service-6.jpeg",
+    image: "/images/service-6.webp",
   },
   {
     title: "7. Installation",
     description:
       "Expert teams ensure flawless execution and installation to the highest standards.",
-    image: "/images/service-7.jpeg",
+    image: "/images/service-7.webp",
   },
 ];
 

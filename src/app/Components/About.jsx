@@ -7,10 +7,10 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 
 const aboutImages = [
-  "/images/about-1.jpeg",
-  "/images/about-2.jpeg",
-  "/images/about-3.jpeg",
-  "/images/about-3.jpeg",
+  "/images/about-1.webp",
+  "/images/about-2.webp",
+  "/images/about-3.webp",
+  "/images/about-3.webp",
 ];
 
 export default function About() {

@@ -8,7 +8,7 @@ const approachItems = [
   {
     title: "Design",
     letter: "D",
-    image: "/images/approach-1.png",
+    image: "/images/approach-1.webp",
     brand: "ATELIO",
     category: "DESIGN FURNITURE",
     description:
@@ -17,7 +17,7 @@ const approachItems = [
   {
     title: "Art Advisory",
     letter: "A",
-    image: "/images/approach-2.jpeg",
+    image: "/images/approach-2.webp",
     brand: "ATELIO",
     category: "ART ADVISORY",
     description:

@@ -9,94 +9,94 @@ import "swiper/css/pagination";
 
 const projects = [
   {
-    image: "/images/p01.jpg",
+    image: "/images/p01.webp",
     brand: "PROJECTS",
     title: "PRIVATE VILLA",
     description:
       "Mansion 05\nLocation: Dubai, UAE\nBrands: Cassina, Rimadesio\nArchitect: Unica Architects",
     cta: "VIEW PROJECT",
-    thumb: "/images/p01.jpg",
+    thumb: "/images/p01.webp",
   },
   {
-    image: "/images/p02.jpg",
+    image: "/images/p02.webp",
     brand: "PROJECTS",
     title: "PRIVATE VILLA",
     description:
       "Mansion 05\nLocation: Dubai, UAE\nBrands: Cassina, Rimadesio\nArchitect: Unica Architects",
     cta: "VIEW PROJECT",
-    thumb: "/images/p02.jpg",
+    thumb: "/images/p02.webp",
   },
   {
-    image: "/images/p03.jpg",
+    image: "/images/p03.webp",
     brand: "PROJECTS",
     title: "PRIVATE VILLA",
     description:
       "Mansion 05\nLocation: Dubai, UAE\nBrands: Cassina, Rimadesio\nArchitect: Unica Architects",
     cta: "VIEW PROJECT",
-    thumb: "/images/p03.jpg",
+    thumb: "/images/p03.webp",
   },
   {
-    image: "/images/p04.jpg",
+    image: "/images/p04.webp",
     brand: "PROJECTS",
     title: "PRIVATE VILLA",
     description:
       "Mansion 05\nLocation: Dubai, UAE\nBrands: Cassina, Rimadesio\nArchitect: Unica Architects",
     cta: "VIEW PROJECT",
-    thumb: "/images/p04.jpg",
+    thumb: "/images/p04.webp",
   },
   {
-    image: "/images/p05.jpg",
+    image: "/images/p05.webp",
     brand: "PROJECTS",
     title: "PRIVATE VILLA",
     description:
       "Mansion 05\nLocation: Dubai, UAE\nBrands: Cassina, Rimadesio\nArchitect: Unica Architects",
     cta: "VIEW PROJECT",
-    thumb: "/images/p05.jpg",
+    thumb: "/images/p05.webp",
   },
   {
-    image: "/images/p06.jpg",
+    image: "/images/p06.webp",
     brand: "PROJECTS",
     title: "PRIVATE VILLA",
     description:
       "Mansion 05\nLocation: Dubai, UAE\nBrands: Cassina, Rimadesio\nArchitect: Unica Architects",
     cta: "VIEW PROJECT",
-    thumb: "/images/p06.jpg",
+    thumb: "/images/p06.webp",
   },
   {
-    image: "/images/p07.jpg",
+    image: "/images/p07.webp",
     brand: "PROJECTS",
     title: "PRIVATE VILLA",
     description:
       "Mansion 05\nLocation: Dubai, UAE\nBrands: Cassina, Rimadesio\nArchitect: Unica Architects",
     cta: "VIEW PROJECT",
-    thumb: "/images/p07.jpg",
+    thumb: "/images/p07.webp",
   },
   {
-    image: "/images/p08.jpg",
+    image: "/images/p08.webp",
     brand: "PROJECTS",
     title: "PRIVATE VILLA",
     description:
       "Mansion 05\nLocation: Dubai, UAE\nBrands: Cassina, Rimadesio\nArchitect: Unica Architects",
     cta: "VIEW PROJECT",
-    thumb: "/images/p08.jpg",
+    thumb: "/images/p08.webp",
   },
   {
-    image: "/images/p09.jpg",
+    image: "/images/p09.webp",
     brand: "PROJECTS",
     title: "PRIVATE VILLA",
     description:
       "Mansion 05\nLocation: Dubai, UAE\nBrands: Cassina, Rimadesio\nArchitect: Unica Architects",
     cta: "VIEW PROJECT",
-    thumb: "/images/p09.jpg",
+    thumb: "/images/p09.webp",
   },
   {
-    image: "/images/p10.jpg",
+    image: "/images/p10.webp",
     brand: "PROJECTS",
     title: "PRIVATE VILLA",
     description:
       "Mansion 05\nLocation: Dubai, UAE\nBrands: Cassina, Rimadesio\nArchitect: Unica Architects",
     cta: "VIEW PROJECT",
-    thumb: "/images/p10.jpg",
+    thumb: "/images/p10.webp",
   },
 ];
 
